@@ -19,7 +19,7 @@ Please feel free to use or adapt the code for your own work. But if so then a ci
 author = {Monks, Thomas },
 license = {MIT},
 title = {{@TheOpenScienceNerd: Interacting with DeepSeek-R1 via Python}},
-url = {https://github.com/TheOpenScienceNerd/ollama_deepseek-r1}
+url = {https://github.com/TheOpenScienceNerd/ollama_deepseek-r1},
 doi = {https://doi.org/10.5281/zenodo.14876187}
 }
 ```
