@@ -1,5 +1,6 @@
 [![ORCID: Monks](https://img.shields.io/badge/Tom_Monks_ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/933170653.svg)](https://doi.org/10.5281/zenodo.14876187)
 
 # DeepSeek-R1: research setup for working with Ollama, Python DeepSeek locally.
 
@@ -19,6 +20,7 @@ author = {Monks, Thomas },
 license = {MIT},
 title = {{@TheOpenScienceNerd: Interacting with DeepSeek-R1 via Python}},
 url = {https://github.com/TheOpenScienceNerd/ollama_deepseek-r1}
+doi = {https://doi.org/10.5281/zenodo.14876187}
 }
 ```
 
