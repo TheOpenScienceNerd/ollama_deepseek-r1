@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Consistent identifier (represents all versions, resolves to latest): 
 
+## [v0.2.0 2025-02-23]
+
+### Added
+
+* `02_conversations.ipynb`: notebook demonstrating how to setup conversation history as context (data) to pass to a local LLM via `ollama`.
+
+### Changed
+
+* Renamed `ollama` setup and prompt tutorial notebook to `01_prompt_deepseek.ipynb`
+
 ## :seedling: [v0.1.0 - 2025-02-15](https://github.com/TheOpenScienceNerd/ollama_deepseek-r1/releases/tag/v0.1.0) [![DOI](https://zenodo.org/badge/933170653.svg)](https://doi.org/10.5281/zenodo.14876187)
 
 ### Added
