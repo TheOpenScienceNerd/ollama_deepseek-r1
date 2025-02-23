@@ -4,8 +4,10 @@
 
 # DeepSeek-R1: research setup for working with Ollama, Python DeepSeek locally.
 
-The materials in this repo provide a example Python code to prompt a local installatio of DeepSeek-R1 using the python package `ollama`
+The materials in this repo provide a example Python code to prompt a local installation of DeepSeek-R1 using the python package `ollama`
 
+> See [ollama documentation](https://ollama.com/) for installing LLMs locally on your machine.
+> 
 ## License
 
 The materials have been made available under an [MIT license](LICENCE).  The materials are as-is with no liability for the author. Please provide credit if you reuse the code in your own work.
@@ -64,12 +66,14 @@ jupyter-lab
 ├── CITATION.cff
 ├── environment.yml
 ├── LICENSE
-├── prompt_deepseek.ipynb
+├── 01_prompt_deepseek.ipynb
+├── 02_conversations.ipynb
 └── README.md
 ```
 
 * `environment.yml` - contains the conda environment if you wish to work locally algorithm
-* `prompt_deepseek` - main notebook file containing the tutorial code for the interacting with a local deepseek-r1 via python.
+* `01_prompt_deepseek.ipynb` - main notebook file containing the tutorial code for the interacting with a local deepseek-r1 via python.
+* `02_conversations.ipynb` -tutorial to setup conversation history as context (data) and pass that to a local LLM via `ollama`.
 * `CHANGES.md` - changelog with record of notable changes to project between versions.
 * `CITATION.cff` - citation information for the package.
 * `LICENSE` - details of the MIT permissive license of this work.
